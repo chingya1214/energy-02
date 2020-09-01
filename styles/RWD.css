@@ -1,0 +1,24 @@
+@media(min-width: 1500px){
+    .sslider{
+        height: 100%;
+    }
+}
+
+@media(max-width: 1500px){
+    .videoarrow{
+        display:none;
+    }
+    .sslider{
+        height: 100%;
+    }
+}
+
+@media(max-width: 950px){
+    .videoarrow{
+        display:none;
+    }
+}
+
+@media(max-width: 500px){
+
+}
